@@ -10,4 +10,7 @@
 
 @implementation COMController
 
+-(void)request {
+    
+}
 @end
